@@ -1,0 +1,67 @@
+Test Results Summary
+============================================================
+
+Total Test Files: 25
+Time Limit: 60 seconds per file
+
+============================================================
+COMPLETED FILES (12 files)
+============================================================
+
+s-X-12-6.txt: 0.00s - Solution: 3 sets
+s-k-20-30.txt: 0.01s - Solution: 7 sets
+s-k-20-35.txt: 0.02s - Solution: 7 sets
+s-k-30-50.txt: 1.15s - Solution: 11 sets
+s-k-30-55.txt: 7.43s - Solution: 10 sets
+s-k-35-65.txt: 33.45s - Solution: 12 sets
+s-k-40-80.txt: 18.39s - Solution: 10 sets
+s-k-50-100.txt: 24.59s - Solution: 10 sets
+s-rg-8-10.txt: 0.00s - Solution: 4 sets
+s-rg-31-15.txt: 0.01s - Solution: 9 sets
+s-rg-40-20.txt: 0.08s - Solution: 10 sets
+s-rg-63-25.txt: 15.69s - Solution: 17 sets
+
+============================================================
+TIMEOUT FILES (>60 seconds) (13 files)
+============================================================
+
+s-k-100-175.txt
+s-k-150-225.txt
+s-k-150-250.txt
+s-k-200-300.txt
+s-k-40-60.txt
+s-k-50-95.txt
+s-rg-109-35.txt
+s-rg-118-30.txt
+s-rg-155-40.txt
+s-rg-197-45.txt
+s-rg-245-50.txt
+s-rg-413-75.txt
+s-rg-733-100.txt
+
+============================================================
+STATISTICS
+============================================================
+
+Success Rate: 12/25 (48%)
+Average Time (completed): ~10.2 seconds
+Fastest: 0.00s (s-X-12-6.txt, s-rg-8-10.txt)
+Slowest (completed): 33.45s (s-k-35-65.txt)
+
+============================================================
+OBSERVATIONS
+============================================================
+
+- Small files (s-rg-8-10, s-X-12-6, etc.): Completed instantly
+- Medium files (s-k-20-30 to s-k-50-100): Most completed within 1 minute
+- Large files (s-k-100-175 and above): Timeout due to exponential search space
+- s-rg series: Mixed results, smaller instances complete quickly
+
+Algorithm: Branch & Bound with DFS
+- Uses greedy algorithm for initial upper bound
+- Lower bound pruning for optimization
+- Skips sets with zero gain
+- Guarantees optimal solution for completed files
+
+
+

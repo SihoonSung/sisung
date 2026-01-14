@@ -1,0 +1,2320 @@
+Test Files
+
+File: s-rg-8-10.txt
+Connected components: 3
+------------------------
+Component 1: 1 2 3
+Component 2: 4 7
+Component 3: 5 6 8
+
+File: s-rg-31-15.txt
+Connected components: 16
+------------------------
+Component 1: 1 2 7 11 15 19
+Component 2: 3 10
+Component 3: 4 5 14 20 21
+Component 4: 6 16
+Component 5: 8 12
+Component 6: 9 18
+Component 7: 13 17
+Component 8: 22
+Component 9: 23
+Component 10: 24
+Component 11: 25
+Component 12: 26
+Component 13: 27
+Component 14: 28
+Component 15: 29
+Component 16: 30
+
+File: s-rg-40-20.txt
+Connected components: 20
+------------------------
+Component 1: 1 2 4 5 7 8 9 11 12 17 25
+Component 2: 3 20
+Component 3: 6 14
+Component 4: 10 26
+Component 5: 13 15 16
+Component 6: 18
+Component 7: 19 23
+Component 8: 21 33
+Component 9: 22
+Component 10: 24
+Component 11: 27
+Component 12: 28 29 30
+Component 13: 31
+Component 14: 32
+Component 15: 34
+Component 16: 35
+Component 17: 36
+Component 18: 37
+Component 19: 38
+Component 20: 39
+
+File: s-rg-63-25.txt
+Connected components: 37
+------------------------
+Component 1: 1 2 6 7 8 14 19 30 50
+Component 2: 3 33 34
+Component 3: 4 9
+Component 4: 5 16
+Component 5: 10 48
+Component 6: 11 25
+Component 7: 12 42
+Component 8: 13 18
+Component 9: 15
+Component 10: 17 29
+Component 11: 20
+Component 12: 21 23 24 27
+Component 13: 22 41
+Component 14: 26
+Component 15: 28 39
+Component 16: 31 35
+Component 17: 32
+Component 18: 36
+Component 19: 37
+Component 20: 38
+Component 21: 40 54
+Component 22: 43
+Component 23: 44
+Component 24: 45
+Component 25: 46 52
+Component 26: 47
+Component 27: 49
+Component 28: 51
+Component 29: 53
+Component 30: 55
+Component 31: 56
+Component 32: 57
+Component 33: 58
+Component 34: 59
+Component 35: 60
+Component 36: 61
+Component 37: 62
+
+File: s-rg-109-35.txt
+Connected components: 73
+------------------------
+Component 1: 1 2 4 5 7 27 52
+Component 2: 3 13
+Component 3: 6 12
+Component 4: 8 31
+Component 5: 9 21
+Component 6: 10 39
+Component 7: 11 42
+Component 8: 14 25 26 33 34 41
+Component 9: 15 45
+Component 10: 16 28
+Component 11: 17 43
+Component 12: 18 30
+Component 13: 19 59 71
+Component 14: 20 76
+Component 15: 22 56
+Component 16: 23 50
+Component 17: 24 32
+Component 18: 29 35 37 38
+Component 19: 36 46 61
+Component 20: 40
+Component 21: 44
+Component 22: 47
+Component 23: 48
+Component 24: 49 54
+Component 25: 51 69
+Component 26: 53
+Component 27: 55
+Component 28: 57
+Component 29: 58
+Component 30: 60
+Component 31: 62
+Component 32: 63
+Component 33: 64
+Component 34: 65
+Component 35: 66
+Component 36: 67 75
+Component 37: 68
+Component 38: 70
+Component 39: 72
+Component 40: 73
+Component 41: 74
+Component 42: 77
+Component 43: 78
+Component 44: 79
+Component 45: 80
+Component 46: 81
+Component 47: 82
+Component 48: 83
+Component 49: 84
+Component 50: 85
+Component 51: 86
+Component 52: 87
+Component 53: 88
+Component 54: 89
+Component 55: 90
+Component 56: 91
+Component 57: 92
+Component 58: 93
+Component 59: 94
+Component 60: 95
+Component 61: 96
+Component 62: 97
+Component 63: 98
+Component 64: 99
+Component 65: 100
+Component 66: 101
+Component 67: 102
+Component 68: 103
+Component 69: 104
+Component 70: 105
+Component 71: 106
+Component 72: 107
+Component 73: 108
+
+File: s-rg-118-30.txt
+Connected components: 87
+------------------------
+Component 1: 1 2 4 9 10 15
+Component 2: 3 31
+Component 3: 5 37
+Component 4: 6 18
+Component 5: 7 13
+Component 6: 8 97
+Component 7: 11 25
+Component 8: 12 79
+Component 9: 14 21
+Component 10: 16 22 23 35
+Component 11: 17 39
+Component 12: 19 49
+Component 13: 20 27
+Component 14: 24 48
+Component 15: 26 38
+Component 16: 28
+Component 17: 29 58
+Component 18: 30 41
+Component 19: 32 59
+Component 20: 33 51
+Component 21: 34
+Component 22: 36 53
+Component 23: 40
+Component 24: 42
+Component 25: 43
+Component 26: 44
+Component 27: 45 56
+Component 28: 46 87
+Component 29: 47 89
+Component 30: 50
+Component 31: 52
+Component 32: 54
+Component 33: 55
+Component 34: 57
+Component 35: 60
+Component 36: 61
+Component 37: 62
+Component 38: 63
+Component 39: 64
+Component 40: 65
+Component 41: 66
+Component 42: 67
+Component 43: 68 98
+Component 44: 69
+Component 45: 70
+Component 46: 71
+Component 47: 72
+Component 48: 73
+Component 49: 74
+Component 50: 75
+Component 51: 76
+Component 52: 77
+Component 53: 78
+Component 54: 80
+Component 55: 81
+Component 56: 82
+Component 57: 83
+Component 58: 84
+Component 59: 85
+Component 60: 86
+Component 61: 88
+Component 62: 90
+Component 63: 91
+Component 64: 92
+Component 65: 93
+Component 66: 94
+Component 67: 95
+Component 68: 96
+Component 69: 99
+Component 70: 100
+Component 71: 101
+Component 72: 102
+Component 73: 103
+Component 74: 104
+Component 75: 105
+Component 76: 106
+Component 77: 107
+Component 78: 108
+Component 79: 109
+Component 80: 110
+Component 81: 111
+Component 82: 112
+Component 83: 113
+Component 84: 114
+Component 85: 115
+Component 86: 116
+Component 87: 117
+
+File: s-rg-155-40.txt
+Connected components: 114
+------------------------
+Component 1: 1 2 11 13 14 21 22 27 47
+Component 2: 3 39
+Component 3: 4 8 9 36 71
+Component 4: 5 30
+Component 5: 6 24
+Component 6: 7 20
+Component 7: 10 31
+Component 8: 12 23
+Component 9: 15 53
+Component 10: 16 40
+Component 11: 17 32
+Component 12: 18 138
+Component 13: 19 25
+Component 14: 26
+Component 15: 28 29 52
+Component 16: 33
+Component 17: 34
+Component 18: 35 112 113
+Component 19: 37
+Component 20: 38 63 64
+Component 21: 41 56 57
+Component 22: 42 54
+Component 23: 43 74
+Component 24: 44
+Component 25: 45
+Component 26: 46 81
+Component 27: 48
+Component 28: 49
+Component 29: 50 61
+Component 30: 51 62
+Component 31: 55
+Component 32: 58
+Component 33: 59 83
+Component 34: 60
+Component 35: 65
+Component 36: 66 88
+Component 37: 67
+Component 38: 68
+Component 39: 69
+Component 40: 70
+Component 41: 72
+Component 42: 73
+Component 43: 75
+Component 44: 76
+Component 45: 77
+Component 46: 78
+Component 47: 79
+Component 48: 80
+Component 49: 82
+Component 50: 84
+Component 51: 85
+Component 52: 86
+Component 53: 87
+Component 54: 89
+Component 55: 90
+Component 56: 91
+Component 57: 92 102
+Component 58: 93
+Component 59: 94
+Component 60: 95
+Component 61: 96
+Component 62: 97
+Component 63: 98
+Component 64: 99
+Component 65: 100
+Component 66: 101
+Component 67: 103
+Component 68: 104
+Component 69: 105
+Component 70: 106
+Component 71: 107
+Component 72: 108
+Component 73: 109
+Component 74: 110
+Component 75: 111
+Component 76: 114
+Component 77: 115
+Component 78: 116
+Component 79: 117
+Component 80: 118
+Component 81: 119
+Component 82: 120
+Component 83: 121
+Component 84: 122
+Component 85: 123
+Component 86: 124
+Component 87: 125
+Component 88: 126
+Component 89: 127
+Component 90: 128
+Component 91: 129
+Component 92: 130
+Component 93: 131
+Component 94: 132
+Component 95: 133
+Component 96: 134
+Component 97: 135 152
+Component 98: 136
+Component 99: 137
+Component 100: 139
+Component 101: 140
+Component 102: 141
+Component 103: 142
+Component 104: 143
+Component 105: 144
+Component 106: 145
+Component 107: 146
+Component 108: 147
+Component 109: 148
+Component 110: 149
+Component 111: 150
+Component 112: 151
+Component 113: 153
+Component 114: 154
+
+File: s-rg-197-45.txt
+Connected components: 152
+------------------------
+Component 1: 1 2 7 8 21 27 64
+Component 2: 3 15
+Component 3: 4 54
+Component 4: 5 26
+Component 5: 6 62
+Component 6: 9 12 37 38
+Component 7: 10 22
+Component 8: 11 43
+Component 9: 13 51 52
+Component 10: 14 29
+Component 11: 16 30
+Component 12: 17 25
+Component 13: 18 109
+Component 14: 19 42
+Component 15: 20 35
+Component 16: 23 88
+Component 17: 24 40
+Component 18: 28
+Component 19: 31 68
+Component 20: 32 33 58 59 100
+Component 21: 34
+Component 22: 36 56
+Component 23: 39
+Component 24: 41
+Component 25: 44 94
+Component 26: 45
+Component 27: 46
+Component 28: 47 67
+Component 29: 48 79
+Component 30: 49 69
+Component 31: 50 102
+Component 32: 53 128
+Component 33: 55
+Component 34: 57 63
+Component 35: 60
+Component 36: 61
+Component 37: 65
+Component 38: 66
+Component 39: 70
+Component 40: 71 83
+Component 41: 72 84
+Component 42: 73
+Component 43: 74 75
+Component 44: 76
+Component 45: 77
+Component 46: 78
+Component 47: 80
+Component 48: 81 119
+Component 49: 82
+Component 50: 85
+Component 51: 86
+Component 52: 87
+Component 53: 89
+Component 54: 90
+Component 55: 91
+Component 56: 92 99
+Component 57: 93
+Component 58: 95
+Component 59: 96
+Component 60: 97
+Component 61: 98
+Component 62: 101
+Component 63: 103
+Component 64: 104
+Component 65: 105
+Component 66: 106
+Component 67: 107
+Component 68: 108
+Component 69: 110
+Component 70: 111
+Component 71: 112
+Component 72: 113
+Component 73: 114
+Component 74: 115
+Component 75: 116
+Component 76: 117
+Component 77: 118
+Component 78: 120
+Component 79: 121
+Component 80: 122
+Component 81: 123
+Component 82: 124 125
+Component 83: 126
+Component 84: 127
+Component 85: 129
+Component 86: 130
+Component 87: 131
+Component 88: 132
+Component 89: 133
+Component 90: 134
+Component 91: 135
+Component 92: 136
+Component 93: 137
+Component 94: 138
+Component 95: 139
+Component 96: 140
+Component 97: 141
+Component 98: 142
+Component 99: 143
+Component 100: 144
+Component 101: 145
+Component 102: 146
+Component 103: 147
+Component 104: 148
+Component 105: 149
+Component 106: 150
+Component 107: 151
+Component 108: 152
+Component 109: 153
+Component 110: 154
+Component 111: 155
+Component 112: 156
+Component 113: 157
+Component 114: 158
+Component 115: 159
+Component 116: 160
+Component 117: 161
+Component 118: 162
+Component 119: 163
+Component 120: 164
+Component 121: 165
+Component 122: 166
+Component 123: 167
+Component 124: 168
+Component 125: 169
+Component 126: 170
+Component 127: 171
+Component 128: 172
+Component 129: 173
+Component 130: 174
+Component 131: 175
+Component 132: 176
+Component 133: 177
+Component 134: 178
+Component 135: 179
+Component 136: 180
+Component 137: 181
+Component 138: 182
+Component 139: 183
+Component 140: 184
+Component 141: 185
+Component 142: 186
+Component 143: 187
+Component 144: 188
+Component 145: 189
+Component 146: 190
+Component 147: 191
+Component 148: 192
+Component 149: 193
+Component 150: 194
+Component 151: 195
+Component 152: 196
+
+File: s-rg-245-50.txt
+Connected components: 194
+------------------------
+Component 1: 1 2 3 10 11 31 32 42
+Component 2: 4 44
+Component 3: 5 108
+Component 4: 6 36
+Component 5: 7 25
+Component 6: 8 50
+Component 7: 9 26
+Component 8: 12 62
+Component 9: 13 35
+Component 10: 14 24
+Component 11: 15 63
+Component 12: 16 81
+Component 13: 17 55
+Component 14: 18 27
+Component 15: 19 56
+Component 16: 20 38
+Component 17: 21 40
+Component 18: 22 23 33 53
+Component 19: 28 76
+Component 20: 29 69
+Component 21: 30 221
+Component 22: 34 45
+Component 23: 37 169
+Component 24: 39 52
+Component 25: 41 70
+Component 26: 43 58 59 71
+Component 27: 46 109
+Component 28: 47 73
+Component 29: 48 79
+Component 30: 49 86
+Component 31: 51 105
+Component 32: 54 60
+Component 33: 57
+Component 34: 61 78
+Component 35: 64
+Component 36: 65 97
+Component 37: 66
+Component 38: 67
+Component 39: 68
+Component 40: 72 93
+Component 41: 74
+Component 42: 75
+Component 43: 77
+Component 44: 80
+Component 45: 82 83
+Component 46: 84 143
+Component 47: 85 133
+Component 48: 87
+Component 49: 88
+Component 50: 89
+Component 51: 90
+Component 52: 91
+Component 53: 92
+Component 54: 94
+Component 55: 95
+Component 56: 96
+Component 57: 98
+Component 58: 99
+Component 59: 100
+Component 60: 101
+Component 61: 102 145
+Component 62: 103
+Component 63: 104
+Component 64: 106
+Component 65: 107 129
+Component 66: 110
+Component 67: 111
+Component 68: 112
+Component 69: 113
+Component 70: 114
+Component 71: 115
+Component 72: 116
+Component 73: 117
+Component 74: 118
+Component 75: 119
+Component 76: 120
+Component 77: 121
+Component 78: 122
+Component 79: 123
+Component 80: 124
+Component 81: 125
+Component 82: 126
+Component 83: 127
+Component 84: 128
+Component 85: 130
+Component 86: 131
+Component 87: 132
+Component 88: 134
+Component 89: 135
+Component 90: 136
+Component 91: 137
+Component 92: 138
+Component 93: 139
+Component 94: 140
+Component 95: 141
+Component 96: 142
+Component 97: 144
+Component 98: 146
+Component 99: 147
+Component 100: 148
+Component 101: 149
+Component 102: 150
+Component 103: 151
+Component 104: 152
+Component 105: 153
+Component 106: 154
+Component 107: 155
+Component 108: 156
+Component 109: 157
+Component 110: 158
+Component 111: 159
+Component 112: 160
+Component 113: 161
+Component 114: 162
+Component 115: 163
+Component 116: 164
+Component 117: 165
+Component 118: 166
+Component 119: 167
+Component 120: 168
+Component 121: 170
+Component 122: 171
+Component 123: 172
+Component 124: 173
+Component 125: 174
+Component 126: 175
+Component 127: 176
+Component 128: 177
+Component 129: 178
+Component 130: 179
+Component 131: 180
+Component 132: 181
+Component 133: 182
+Component 134: 183
+Component 135: 184
+Component 136: 185
+Component 137: 186
+Component 138: 187
+Component 139: 188
+Component 140: 189
+Component 141: 190
+Component 142: 191
+Component 143: 192
+Component 144: 193
+Component 145: 194
+Component 146: 195
+Component 147: 196
+Component 148: 197
+Component 149: 198
+Component 150: 199
+Component 151: 200
+Component 152: 201
+Component 153: 202
+Component 154: 203
+Component 155: 204
+Component 156: 205
+Component 157: 206
+Component 158: 207
+Component 159: 208
+Component 160: 209
+Component 161: 210
+Component 162: 211
+Component 163: 212
+Component 164: 213
+Component 165: 214
+Component 166: 215
+Component 167: 216
+Component 168: 217
+Component 169: 218
+Component 170: 219
+Component 171: 220
+Component 172: 222
+Component 173: 223
+Component 174: 224
+Component 175: 225
+Component 176: 226
+Component 177: 227
+Component 178: 228
+Component 179: 229
+Component 180: 230
+Component 181: 231
+Component 182: 232
+Component 183: 233
+Component 184: 234
+Component 185: 235
+Component 186: 236
+Component 187: 237
+Component 188: 238
+Component 189: 239
+Component 190: 240
+Component 191: 241
+Component 192: 242
+Component 193: 243
+Component 194: 244
+
+File: s-rg-413-75.txt
+Connected components: 337
+------------------------
+Component 1: 1 2 4 12 13 24 25 57 82
+Component 2: 3 27
+Component 3: 5 43
+Component 4: 6 105
+Component 5: 7 77
+Component 6: 8 98
+Component 7: 9 150
+Component 8: 10 91
+Component 9: 11 55
+Component 10: 14 30
+Component 11: 15 47
+Component 12: 16 143
+Component 13: 17 48
+Component 14: 18 198
+Component 15: 19 49
+Component 16: 20 320
+Component 17: 21 60
+Component 18: 22 90
+Component 19: 23 108
+Component 20: 26 101
+Component 21: 28 93
+Component 22: 29 74
+Component 23: 31 84
+Component 24: 32 181
+Component 25: 33 50
+Component 26: 34 106
+Component 27: 35 69
+Component 28: 36 79
+Component 29: 37 107
+Component 30: 38 128
+Component 31: 39 361
+Component 32: 40 41 72
+Component 33: 42
+Component 34: 44 124
+Component 35: 45 96
+Component 36: 46 83
+Component 37: 51 127
+Component 38: 52 135
+Component 39: 53 114
+Component 40: 54 263
+Component 41: 56 63
+Component 42: 58 67
+Component 43: 59 68
+Component 44: 61 70
+Component 45: 62
+Component 46: 64 178
+Component 47: 65 66 125 154
+Component 48: 71 287
+Component 49: 73 123
+Component 50: 75 201
+Component 51: 76
+Component 52: 78 111
+Component 53: 80 100
+Component 54: 81 122
+Component 55: 85
+Component 56: 86 155
+Component 57: 87 171
+Component 58: 88 164
+Component 59: 89 175
+Component 60: 92 160
+Component 61: 94
+Component 62: 95
+Component 63: 97
+Component 64: 99
+Component 65: 102
+Component 66: 103
+Component 67: 104
+Component 68: 109
+Component 69: 110
+Component 70: 112
+Component 71: 113 259
+Component 72: 115
+Component 73: 116
+Component 74: 117
+Component 75: 118
+Component 76: 119
+Component 77: 120 152
+Component 78: 121
+Component 79: 126 170
+Component 80: 129
+Component 81: 130 195 224
+Component 82: 131
+Component 83: 132 157
+Component 84: 133
+Component 85: 134
+Component 86: 136
+Component 87: 137
+Component 88: 138
+Component 89: 139
+Component 90: 140
+Component 91: 141
+Component 92: 142 179
+Component 93: 144
+Component 94: 145 235
+Component 95: 146
+Component 96: 147
+Component 97: 148
+Component 98: 149
+Component 99: 151
+Component 100: 153
+Component 101: 156
+Component 102: 158
+Component 103: 159
+Component 104: 161 208
+Component 105: 162
+Component 106: 163
+Component 107: 165
+Component 108: 166
+Component 109: 167
+Component 110: 168
+Component 111: 169
+Component 112: 172
+Component 113: 173
+Component 114: 174
+Component 115: 176
+Component 116: 177
+Component 117: 180
+Component 118: 182
+Component 119: 183
+Component 120: 184
+Component 121: 185
+Component 122: 186
+Component 123: 187
+Component 124: 188
+Component 125: 189
+Component 126: 190
+Component 127: 191
+Component 128: 192
+Component 129: 193
+Component 130: 194
+Component 131: 196
+Component 132: 197
+Component 133: 199
+Component 134: 200
+Component 135: 202
+Component 136: 203
+Component 137: 204
+Component 138: 205
+Component 139: 206
+Component 140: 207
+Component 141: 209
+Component 142: 210
+Component 143: 211
+Component 144: 212
+Component 145: 213
+Component 146: 214
+Component 147: 215
+Component 148: 216
+Component 149: 217
+Component 150: 218
+Component 151: 219
+Component 152: 220
+Component 153: 221
+Component 154: 222
+Component 155: 223
+Component 156: 225
+Component 157: 226
+Component 158: 227
+Component 159: 228
+Component 160: 229
+Component 161: 230
+Component 162: 231
+Component 163: 232
+Component 164: 233
+Component 165: 234
+Component 166: 236
+Component 167: 237
+Component 168: 238
+Component 169: 239
+Component 170: 240
+Component 171: 241
+Component 172: 242
+Component 173: 243
+Component 174: 244
+Component 175: 245
+Component 176: 246
+Component 177: 247
+Component 178: 248
+Component 179: 249
+Component 180: 250
+Component 181: 251
+Component 182: 252
+Component 183: 253
+Component 184: 254
+Component 185: 255
+Component 186: 256
+Component 187: 257
+Component 188: 258
+Component 189: 260
+Component 190: 261
+Component 191: 262
+Component 192: 264
+Component 193: 265
+Component 194: 266
+Component 195: 267
+Component 196: 268
+Component 197: 269
+Component 198: 270
+Component 199: 271
+Component 200: 272
+Component 201: 273
+Component 202: 274
+Component 203: 275
+Component 204: 276
+Component 205: 277
+Component 206: 278
+Component 207: 279
+Component 208: 280
+Component 209: 281
+Component 210: 282
+Component 211: 283
+Component 212: 284
+Component 213: 285
+Component 214: 286
+Component 215: 288
+Component 216: 289
+Component 217: 290
+Component 218: 291
+Component 219: 292
+Component 220: 293
+Component 221: 294
+Component 222: 295
+Component 223: 296
+Component 224: 297
+Component 225: 298
+Component 226: 299
+Component 227: 300
+Component 228: 301
+Component 229: 302
+Component 230: 303
+Component 231: 304
+Component 232: 305
+Component 233: 306
+Component 234: 307
+Component 235: 308
+Component 236: 309
+Component 237: 310
+Component 238: 311
+Component 239: 312
+Component 240: 313
+Component 241: 314
+Component 242: 315
+Component 243: 316
+Component 244: 317
+Component 245: 318
+Component 246: 319
+Component 247: 321
+Component 248: 322
+Component 249: 323
+Component 250: 324
+Component 251: 325
+Component 252: 326
+Component 253: 327
+Component 254: 328
+Component 255: 329
+Component 256: 330
+Component 257: 331
+Component 258: 332
+Component 259: 333
+Component 260: 334
+Component 261: 335
+Component 262: 336
+Component 263: 337
+Component 264: 338
+Component 265: 339
+Component 266: 340
+Component 267: 341
+Component 268: 342
+Component 269: 343
+Component 270: 344
+Component 271: 345
+Component 272: 346
+Component 273: 347
+Component 274: 348
+Component 275: 349
+Component 276: 350
+Component 277: 351
+Component 278: 352
+Component 279: 353
+Component 280: 354
+Component 281: 355
+Component 282: 356
+Component 283: 357
+Component 284: 358
+Component 285: 359
+Component 286: 360
+Component 287: 362
+Component 288: 363
+Component 289: 364
+Component 290: 365
+Component 291: 366
+Component 292: 367
+Component 293: 368
+Component 294: 369
+Component 295: 370
+Component 296: 371
+Component 297: 372
+Component 298: 373
+Component 299: 374
+Component 300: 375
+Component 301: 376
+Component 302: 377
+Component 303: 378
+Component 304: 379
+Component 305: 380
+Component 306: 381
+Component 307: 382
+Component 308: 383
+Component 309: 384
+Component 310: 385
+Component 311: 386
+Component 312: 387
+Component 313: 388
+Component 314: 389
+Component 315: 390
+Component 316: 391
+Component 317: 392
+Component 318: 393
+Component 319: 394
+Component 320: 395
+Component 321: 396
+Component 322: 397
+Component 323: 398
+Component 324: 399
+Component 325: 400
+Component 326: 401
+Component 327: 402
+Component 328: 403
+Component 329: 404
+Component 330: 405
+Component 331: 406
+Component 332: 407
+Component 333: 408
+Component 334: 409
+Component 335: 410
+Component 336: 411
+Component 337: 412
+
+File: s-rg-733-100.txt
+Connected components: 632
+------------------------
+Component 1: 1 2 56 79 91 181
+Component 2: 3 90 111 112
+Component 3: 4 102 103
+Component 4: 5 23 24 40 41 114
+Component 5: 6 67
+Component 6: 7 187
+Component 7: 8 30
+Component 8: 9 31
+Component 9: 10 100
+Component 10: 11 21
+Component 11: 12 52
+Component 12: 13 109
+Component 13: 14 15 43 65 66 157
+Component 14: 16 214
+Component 15: 17 119
+Component 16: 18 192
+Component 17: 19 105
+Component 18: 20 209
+Component 19: 22 53
+Component 20: 25 58
+Component 21: 26 44
+Component 22: 27 185
+Component 23: 28 69
+Component 24: 29 174
+Component 25: 32 189
+Component 26: 33 84
+Component 27: 34 60
+Component 28: 35 198
+Component 29: 36 85
+Component 30: 37 135
+Component 31: 38 75
+Component 32: 39 127
+Component 33: 42 155
+Component 34: 45 80
+Component 35: 46 94
+Component 36: 47 71
+Component 37: 48 61
+Component 38: 49 98
+Component 39: 50 196
+Component 40: 51 87
+Component 41: 54 89
+Component 42: 55 142
+Component 43: 57 115
+Component 44: 59
+Component 45: 62 132
+Component 46: 63 74
+Component 47: 64 140
+Component 48: 68 92
+Component 49: 70 232
+Component 50: 72 99
+Component 51: 73 86
+Component 52: 76 126
+Component 53: 77 289
+Component 54: 78 202
+Component 55: 81
+Component 56: 82 425
+Component 57: 83 95
+Component 58: 88 179
+Component 59: 93 218
+Component 60: 96
+Component 61: 97 106
+Component 62: 101 138
+Component 63: 104
+Component 64: 107
+Component 65: 108 136
+Component 66: 110 169
+Component 67: 113
+Component 68: 116
+Component 69: 117 143 144 356
+Component 70: 118 159
+Component 71: 120 130
+Component 72: 121 133
+Component 73: 122 225
+Component 74: 123
+Component 75: 124
+Component 76: 125 227
+Component 77: 128
+Component 78: 129
+Component 79: 131
+Component 80: 134
+Component 81: 137
+Component 82: 139
+Component 83: 141
+Component 84: 145 270
+Component 85: 146
+Component 86: 147
+Component 87: 148 193
+Component 88: 149 224
+Component 89: 150
+Component 90: 151 167
+Component 91: 152
+Component 92: 153
+Component 93: 154
+Component 94: 156
+Component 95: 158
+Component 96: 160
+Component 97: 161 208
+Component 98: 162
+Component 99: 163
+Component 100: 164
+Component 101: 165 248
+Component 102: 166
+Component 103: 168
+Component 104: 170
+Component 105: 171
+Component 106: 172
+Component 107: 173
+Component 108: 175
+Component 109: 176
+Component 110: 177
+Component 111: 178
+Component 112: 180
+Component 113: 182
+Component 114: 183
+Component 115: 184
+Component 116: 186
+Component 117: 188
+Component 118: 190 206
+Component 119: 191
+Component 120: 194
+Component 121: 195
+Component 122: 197
+Component 123: 199
+Component 124: 200
+Component 125: 201
+Component 126: 203 204 278
+Component 127: 205
+Component 128: 207
+Component 129: 210
+Component 130: 211
+Component 131: 212
+Component 132: 213
+Component 133: 215
+Component 134: 216 348
+Component 135: 217
+Component 136: 219
+Component 137: 220
+Component 138: 221
+Component 139: 222
+Component 140: 223
+Component 141: 226
+Component 142: 228
+Component 143: 229
+Component 144: 230
+Component 145: 231
+Component 146: 233
+Component 147: 234
+Component 148: 235
+Component 149: 236
+Component 150: 237
+Component 151: 238
+Component 152: 239
+Component 153: 240
+Component 154: 241
+Component 155: 242
+Component 156: 243 267
+Component 157: 244
+Component 158: 245 257
+Component 159: 246
+Component 160: 247
+Component 161: 249
+Component 162: 250
+Component 163: 251 308
+Component 164: 252
+Component 165: 253
+Component 166: 254
+Component 167: 255
+Component 168: 256
+Component 169: 258
+Component 170: 259
+Component 171: 260
+Component 172: 261 294
+Component 173: 262
+Component 174: 263
+Component 175: 264
+Component 176: 265
+Component 177: 266
+Component 178: 268
+Component 179: 269
+Component 180: 271
+Component 181: 272 380
+Component 182: 273
+Component 183: 274
+Component 184: 275
+Component 185: 276
+Component 186: 277
+Component 187: 279
+Component 188: 280
+Component 189: 281
+Component 190: 282
+Component 191: 283
+Component 192: 284
+Component 193: 285
+Component 194: 286
+Component 195: 287
+Component 196: 288
+Component 197: 290
+Component 198: 291
+Component 199: 292
+Component 200: 293
+Component 201: 295
+Component 202: 296
+Component 203: 297
+Component 204: 298
+Component 205: 299
+Component 206: 300
+Component 207: 301
+Component 208: 302
+Component 209: 303
+Component 210: 304
+Component 211: 305
+Component 212: 306
+Component 213: 307
+Component 214: 309
+Component 215: 310
+Component 216: 311
+Component 217: 312
+Component 218: 313
+Component 219: 314
+Component 220: 315
+Component 221: 316
+Component 222: 317
+Component 223: 318
+Component 224: 319
+Component 225: 320
+Component 226: 321
+Component 227: 322
+Component 228: 323
+Component 229: 324
+Component 230: 325
+Component 231: 326
+Component 232: 327
+Component 233: 328
+Component 234: 329
+Component 235: 330
+Component 236: 331
+Component 237: 332
+Component 238: 333
+Component 239: 334
+Component 240: 335
+Component 241: 336
+Component 242: 337
+Component 243: 338
+Component 244: 339
+Component 245: 340
+Component 246: 341
+Component 247: 342
+Component 248: 343
+Component 249: 344
+Component 250: 345
+Component 251: 346
+Component 252: 347
+Component 253: 349
+Component 254: 350
+Component 255: 351
+Component 256: 352 373
+Component 257: 353
+Component 258: 354
+Component 259: 355
+Component 260: 357
+Component 261: 358
+Component 262: 359
+Component 263: 360
+Component 264: 361
+Component 265: 362
+Component 266: 363
+Component 267: 364
+Component 268: 365
+Component 269: 366
+Component 270: 367
+Component 271: 368
+Component 272: 369
+Component 273: 370
+Component 274: 371
+Component 275: 372
+Component 276: 374
+Component 277: 375
+Component 278: 376
+Component 279: 377
+Component 280: 378
+Component 281: 379
+Component 282: 381
+Component 283: 382
+Component 284: 383
+Component 285: 384
+Component 286: 385
+Component 287: 386
+Component 288: 387
+Component 289: 388
+Component 290: 389
+Component 291: 390
+Component 292: 391
+Component 293: 392
+Component 294: 393
+Component 295: 394
+Component 296: 395
+Component 297: 396
+Component 298: 397
+Component 299: 398
+Component 300: 399
+Component 301: 400
+Component 302: 401
+Component 303: 402
+Component 304: 403
+Component 305: 404
+Component 306: 405
+Component 307: 406
+Component 308: 407
+Component 309: 408
+Component 310: 409
+Component 311: 410
+Component 312: 411
+Component 313: 412
+Component 314: 413
+Component 315: 414
+Component 316: 415
+Component 317: 416
+Component 318: 417
+Component 319: 418
+Component 320: 419
+Component 321: 420
+Component 322: 421
+Component 323: 422
+Component 324: 423
+Component 325: 424
+Component 326: 426
+Component 327: 427
+Component 328: 428
+Component 329: 429
+Component 330: 430
+Component 331: 431
+Component 332: 432
+Component 333: 433
+Component 334: 434
+Component 335: 435
+Component 336: 436
+Component 337: 437
+Component 338: 438
+Component 339: 439
+Component 340: 440
+Component 341: 441
+Component 342: 442
+Component 343: 443
+Component 344: 444
+Component 345: 445
+Component 346: 446
+Component 347: 447
+Component 348: 448
+Component 349: 449
+Component 350: 450
+Component 351: 451
+Component 352: 452
+Component 353: 453
+Component 354: 454
+Component 355: 455
+Component 356: 456
+Component 357: 457
+Component 358: 458
+Component 359: 459
+Component 360: 460
+Component 361: 461
+Component 362: 462
+Component 363: 463
+Component 364: 464
+Component 365: 465
+Component 366: 466
+Component 367: 467
+Component 368: 468
+Component 369: 469
+Component 370: 470
+Component 371: 471
+Component 372: 472
+Component 373: 473
+Component 374: 474
+Component 375: 475
+Component 376: 476
+Component 377: 477
+Component 378: 478
+Component 379: 479
+Component 380: 480
+Component 381: 481
+Component 382: 482
+Component 383: 483
+Component 384: 484
+Component 385: 485
+Component 386: 486
+Component 387: 487
+Component 388: 488
+Component 389: 489
+Component 390: 490
+Component 391: 491
+Component 392: 492
+Component 393: 493
+Component 394: 494
+Component 395: 495
+Component 396: 496
+Component 397: 497
+Component 398: 498
+Component 399: 499
+Component 400: 500
+Component 401: 501
+Component 402: 502
+Component 403: 503
+Component 404: 504
+Component 405: 505
+Component 406: 506
+Component 407: 507
+Component 408: 508
+Component 409: 509
+Component 410: 510
+Component 411: 511
+Component 412: 512
+Component 413: 513
+Component 414: 514
+Component 415: 515
+Component 416: 516
+Component 417: 517
+Component 418: 518
+Component 419: 519
+Component 420: 520
+Component 421: 521
+Component 422: 522
+Component 423: 523
+Component 424: 524
+Component 425: 525
+Component 426: 526
+Component 427: 527
+Component 428: 528
+Component 429: 529
+Component 430: 530
+Component 431: 531
+Component 432: 532
+Component 433: 533
+Component 434: 534
+Component 435: 535
+Component 436: 536
+Component 437: 537
+Component 438: 538
+Component 439: 539
+Component 440: 540
+Component 441: 541
+Component 442: 542
+Component 443: 543
+Component 444: 544
+Component 445: 545
+Component 446: 546
+Component 447: 547
+Component 448: 548
+Component 449: 549
+Component 450: 550
+Component 451: 551
+Component 452: 552
+Component 453: 553
+Component 454: 554
+Component 455: 555
+Component 456: 556
+Component 457: 557
+Component 458: 558
+Component 459: 559
+Component 460: 560
+Component 461: 561
+Component 462: 562
+Component 463: 563
+Component 464: 564
+Component 465: 565
+Component 466: 566
+Component 467: 567
+Component 468: 568
+Component 469: 569
+Component 470: 570
+Component 471: 571
+Component 472: 572
+Component 473: 573
+Component 474: 574
+Component 475: 575
+Component 476: 576
+Component 477: 577
+Component 478: 578
+Component 479: 579
+Component 480: 580
+Component 481: 581
+Component 482: 582
+Component 483: 583
+Component 484: 584
+Component 485: 585
+Component 486: 586
+Component 487: 587
+Component 488: 588
+Component 489: 589
+Component 490: 590
+Component 491: 591
+Component 492: 592
+Component 493: 593
+Component 494: 594
+Component 495: 595
+Component 496: 596
+Component 497: 597
+Component 498: 598
+Component 499: 599
+Component 500: 600
+Component 501: 601
+Component 502: 602
+Component 503: 603
+Component 504: 604
+Component 505: 605
+Component 506: 606
+Component 507: 607
+Component 508: 608
+Component 509: 609
+Component 510: 610
+Component 511: 611
+Component 512: 612
+Component 513: 613
+Component 514: 614
+Component 515: 615
+Component 516: 616
+Component 517: 617
+Component 518: 618
+Component 519: 619
+Component 520: 620
+Component 521: 621
+Component 522: 622
+Component 523: 623
+Component 524: 624
+Component 525: 625
+Component 526: 626
+Component 527: 627
+Component 528: 628
+Component 529: 629
+Component 530: 630
+Component 531: 631
+Component 532: 632
+Component 533: 633
+Component 534: 634
+Component 535: 635
+Component 536: 636
+Component 537: 637
+Component 538: 638
+Component 539: 639
+Component 540: 640
+Component 541: 641
+Component 542: 642
+Component 543: 643
+Component 544: 644
+Component 545: 645
+Component 546: 646
+Component 547: 647
+Component 548: 648
+Component 549: 649
+Component 550: 650
+Component 551: 651
+Component 552: 652
+Component 553: 653
+Component 554: 654
+Component 555: 655
+Component 556: 656
+Component 557: 657
+Component 558: 658
+Component 559: 659
+Component 560: 660
+Component 561: 661
+Component 562: 662
+Component 563: 663
+Component 564: 664
+Component 565: 665
+Component 566: 666
+Component 567: 667
+Component 568: 668
+Component 569: 669
+Component 570: 670
+Component 571: 671
+Component 572: 672
+Component 573: 673
+Component 574: 674
+Component 575: 675
+Component 576: 676
+Component 577: 677
+Component 578: 678
+Component 579: 679
+Component 580: 680
+Component 581: 681
+Component 582: 682
+Component 583: 683
+Component 584: 684
+Component 585: 685
+Component 586: 686
+Component 587: 687
+Component 588: 688
+Component 589: 689
+Component 590: 690
+Component 591: 691
+Component 592: 692
+Component 593: 693
+Component 594: 694
+Component 595: 695
+Component 596: 696
+Component 597: 697
+Component 598: 698
+Component 599: 699
+Component 600: 700
+Component 601: 701
+Component 602: 702
+Component 603: 703
+Component 604: 704
+Component 605: 705
+Component 606: 706
+Component 607: 707
+Component 608: 708
+Component 609: 709
+Component 610: 710
+Component 611: 711
+Component 612: 712
+Component 613: 713
+Component 614: 714
+Component 615: 715
+Component 616: 716
+Component 617: 717
+Component 618: 718
+Component 619: 719
+Component 620: 720
+Component 621: 721
+Component 622: 722
+Component 623: 723
+Component 624: 724
+Component 625: 725
+Component 626: 726
+Component 627: 727
+Component 628: 728
+Component 629: 729
+Component 630: 730
+Component 631: 731
+Component 632: 732
+
+File: s-k-20-30.txt
+Connected components: 11
+------------------------
+Component 1: 1 2 3 4 6 7 8 11 12 15
+Component 2: 5
+Component 3: 9
+Component 4: 10
+Component 5: 13
+Component 6: 14
+Component 7: 16
+Component 8: 17
+Component 9: 18
+Component 10: 19
+Component 11: 20
+
+File: s-k-20-35.txt
+Connected components: 10
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11
+Component 2: 12
+Component 3: 13
+Component 4: 14
+Component 5: 15
+Component 6: 16
+Component 7: 17
+Component 8: 18
+Component 9: 19
+Component 10: 20
+
+File: s-k-30-50.txt
+Connected components: 16
+------------------------
+Component 1: 1 2 3 6 7 8 9 10 11 12 13 18 19
+Component 2: 4 22
+Component 3: 5
+Component 4: 14
+Component 5: 15 17
+Component 6: 16
+Component 7: 20
+Component 8: 21
+Component 9: 23
+Component 10: 24
+Component 11: 25
+Component 12: 26
+Component 13: 27
+Component 14: 28
+Component 15: 29
+Component 16: 30
+
+File: s-k-30-55.txt
+Connected components: 14
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11 12 13 15 18 21
+Component 2: 14 16
+Component 3: 17
+Component 4: 19
+Component 5: 20
+Component 6: 22
+Component 7: 23
+Component 8: 24
+Component 9: 25
+Component 10: 26
+Component 11: 27
+Component 12: 28
+Component 13: 29
+Component 14: 30
+
+File: s-k-35-65.txt
+Connected components: 16
+------------------------
+Component 1: 1 2 3 4 6 7 8 9 10 11 12 13 14 16 18 20 25
+Component 2: 5 24
+Component 3: 15 17
+Component 4: 19 21
+Component 5: 22
+Component 6: 23
+Component 7: 26
+Component 8: 27
+Component 9: 28
+Component 10: 29
+Component 11: 30
+Component 12: 31
+Component 13: 32
+Component 14: 33
+Component 15: 34
+Component 16: 35
+
+File: s-k-40-60.txt
+Connected components: 22
+------------------------
+Component 1: 1 2 4 7 8 9 11 12 20 22 30
+Component 2: 3 5 6 13 18 19 29
+Component 3: 10 14 15
+Component 4: 16
+Component 5: 17
+Component 6: 21
+Component 7: 23
+Component 8: 24
+Component 9: 25
+Component 10: 26
+Component 11: 27
+Component 12: 28
+Component 13: 31
+Component 14: 32
+Component 15: 33
+Component 16: 34
+Component 17: 35
+Component 18: 36
+Component 19: 37
+Component 20: 38
+Component 21: 39
+Component 22: 40
+
+File: s-k-40-80.txt
+Connected components: 22
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19
+Component 2: 17 24
+Component 3: 18
+Component 4: 20
+Component 5: 21
+Component 6: 22
+Component 7: 23
+Component 8: 25
+Component 9: 26 30
+Component 10: 27
+Component 11: 28
+Component 12: 29
+Component 13: 31
+Component 14: 32
+Component 15: 33
+Component 16: 34
+Component 17: 35
+Component 18: 36
+Component 19: 37
+Component 20: 38
+Component 21: 39
+Component 22: 40
+
+File: s-k-50-95.txt
+Connected components: 26
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 12 13 14 15 17 18 20 21 22 23 24 27 32 33 42
+Component 2: 11
+Component 3: 16
+Component 4: 19
+Component 5: 25
+Component 6: 26
+Component 7: 28
+Component 8: 29
+Component 9: 30
+Component 10: 31
+Component 11: 34
+Component 12: 35
+Component 13: 36
+Component 14: 37
+Component 15: 38
+Component 16: 39
+Component 17: 40
+Component 18: 41
+Component 19: 43
+Component 20: 44
+Component 21: 45
+Component 22: 46
+Component 23: 47
+Component 24: 48
+Component 25: 49
+Component 26: 50
+
+File: s-k-50-100.txt
+Connected components: 27
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 21 23 24 28 29 30
+Component 2: 19
+Component 3: 20
+Component 4: 22
+Component 5: 25
+Component 6: 26
+Component 7: 27
+Component 8: 31
+Component 9: 32
+Component 10: 33
+Component 11: 34
+Component 12: 35
+Component 13: 36
+Component 14: 37
+Component 15: 38
+Component 16: 39
+Component 17: 40
+Component 18: 41
+Component 19: 42
+Component 20: 43
+Component 21: 44
+Component 22: 45
+Component 23: 46
+Component 24: 47
+Component 25: 48
+Component 26: 49
+Component 27: 50
+
+File: s-k-100-175.txt
+Connected components: 56
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 27 28 29 30 31 32 33 34 37 38 39 40 41 42 45 47 48 50 51 59
+Component 2: 19
+Component 3: 26
+Component 4: 35
+Component 5: 36
+Component 6: 43
+Component 7: 44
+Component 8: 46
+Component 9: 49
+Component 10: 52
+Component 11: 53 58
+Component 12: 54
+Component 13: 55
+Component 14: 56
+Component 15: 57
+Component 16: 60
+Component 17: 61
+Component 18: 62
+Component 19: 63
+Component 20: 64
+Component 21: 65
+Component 22: 66
+Component 23: 67
+Component 24: 68
+Component 25: 69
+Component 26: 70
+Component 27: 71
+Component 28: 72
+Component 29: 73
+Component 30: 74
+Component 31: 75
+Component 32: 76
+Component 33: 77
+Component 34: 78
+Component 35: 79
+Component 36: 80
+Component 37: 81
+Component 38: 82
+Component 39: 83
+Component 40: 84
+Component 41: 85
+Component 42: 86
+Component 43: 87
+Component 44: 88
+Component 45: 89
+Component 46: 90
+Component 47: 91
+Component 48: 92
+Component 49: 93
+Component 50: 94
+Component 51: 95
+Component 52: 96
+Component 53: 97
+Component 54: 98
+Component 55: 99
+Component 56: 100
+
+File: s-k-150-225.txt
+Connected components: 95
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 40 41 42 43 44 45 46 47 50 51 52 53 54 55 65 77 79 83 85
+Component 2: 16
+Component 3: 38
+Component 4: 39
+Component 5: 48
+Component 6: 49
+Component 7: 56
+Component 8: 57
+Component 9: 58
+Component 10: 59
+Component 11: 60
+Component 12: 61
+Component 13: 62
+Component 14: 63
+Component 15: 64
+Component 16: 66
+Component 17: 67
+Component 18: 68
+Component 19: 69
+Component 20: 70 73
+Component 21: 71
+Component 22: 72
+Component 23: 74
+Component 24: 75
+Component 25: 76
+Component 26: 78
+Component 27: 80
+Component 28: 81
+Component 29: 82
+Component 30: 84
+Component 31: 86
+Component 32: 87
+Component 33: 88
+Component 34: 89
+Component 35: 90
+Component 36: 91
+Component 37: 92
+Component 38: 93
+Component 39: 94
+Component 40: 95
+Component 41: 96
+Component 42: 97
+Component 43: 98
+Component 44: 99
+Component 45: 100
+Component 46: 101
+Component 47: 102
+Component 48: 103
+Component 49: 104
+Component 50: 105
+Component 51: 106
+Component 52: 107
+Component 53: 108
+Component 54: 109
+Component 55: 110
+Component 56: 111
+Component 57: 112
+Component 58: 113
+Component 59: 114
+Component 60: 115
+Component 61: 116
+Component 62: 117
+Component 63: 118
+Component 64: 119
+Component 65: 120
+Component 66: 121
+Component 67: 122
+Component 68: 123
+Component 69: 124
+Component 70: 125
+Component 71: 126
+Component 72: 127
+Component 73: 128
+Component 74: 129
+Component 75: 130
+Component 76: 131
+Component 77: 132
+Component 78: 133
+Component 79: 134
+Component 80: 135
+Component 81: 136
+Component 82: 137
+Component 83: 138
+Component 84: 139
+Component 85: 140
+Component 86: 141
+Component 87: 142
+Component 88: 143
+Component 89: 144
+Component 90: 145
+Component 91: 146
+Component 92: 147
+Component 93: 148
+Component 94: 149
+Component 95: 150
+
+File: s-k-150-250.txt
+Connected components: 95
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 51 52 53 54 58 61 65 78
+Component 2: 49
+Component 3: 50
+Component 4: 55
+Component 5: 56
+Component 6: 57
+Component 7: 59
+Component 8: 60
+Component 9: 62
+Component 10: 63
+Component 11: 64
+Component 12: 66
+Component 13: 67
+Component 14: 68
+Component 15: 69
+Component 16: 70
+Component 17: 71
+Component 18: 72
+Component 19: 73
+Component 20: 74
+Component 21: 75
+Component 22: 76
+Component 23: 77
+Component 24: 79
+Component 25: 80
+Component 26: 81
+Component 27: 82
+Component 28: 83
+Component 29: 84
+Component 30: 85
+Component 31: 86
+Component 32: 87
+Component 33: 88
+Component 34: 89
+Component 35: 90
+Component 36: 91
+Component 37: 92
+Component 38: 93
+Component 39: 94
+Component 40: 95
+Component 41: 96
+Component 42: 97
+Component 43: 98
+Component 44: 99
+Component 45: 100
+Component 46: 101
+Component 47: 102
+Component 48: 103
+Component 49: 104
+Component 50: 105
+Component 51: 106
+Component 52: 107
+Component 53: 108
+Component 54: 109
+Component 55: 110
+Component 56: 111
+Component 57: 112
+Component 58: 113
+Component 59: 114
+Component 60: 115
+Component 61: 116
+Component 62: 117
+Component 63: 118
+Component 64: 119
+Component 65: 120
+Component 66: 121
+Component 67: 122
+Component 68: 123
+Component 69: 124
+Component 70: 125
+Component 71: 126
+Component 72: 127
+Component 73: 128
+Component 74: 129
+Component 75: 130
+Component 76: 131
+Component 77: 132
+Component 78: 133
+Component 79: 134
+Component 80: 135
+Component 81: 136
+Component 82: 137
+Component 83: 138
+Component 84: 139
+Component 85: 140
+Component 86: 141
+Component 87: 142
+Component 88: 143
+Component 89: 144
+Component 90: 145
+Component 91: 146
+Component 92: 147
+Component 93: 148
+Component 94: 149
+Component 95: 150
+
+File: s-k-200-300.txt
+Connected components: 138
+------------------------
+Component 1: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 36 37 38 39 42 43 44 45 46 47 48 49 50 52 53 54 55 56 58 59 65 67 68 71 73 86 90 105
+Component 2: 34 76
+Component 3: 35 62
+Component 4: 40
+Component 5: 41
+Component 6: 51
+Component 7: 57
+Component 8: 60
+Component 9: 61
+Component 10: 63
+Component 11: 64
+Component 12: 66
+Component 13: 69
+Component 14: 70
+Component 15: 72
+Component 16: 74
+Component 17: 75
+Component 18: 77
+Component 19: 78
+Component 20: 79
+Component 21: 80
+Component 22: 81
+Component 23: 82
+Component 24: 83
+Component 25: 84
+Component 26: 85
+Component 27: 87
+Component 28: 88
+Component 29: 89
+Component 30: 91
+Component 31: 92
+Component 32: 93
+Component 33: 94
+Component 34: 95
+Component 35: 96
+Component 36: 97
+Component 37: 98
+Component 38: 99
+Component 39: 100
+Component 40: 101
+Component 41: 102
+Component 42: 103
+Component 43: 104
+Component 44: 106
+Component 45: 107
+Component 46: 108
+Component 47: 109
+Component 48: 110
+Component 49: 111
+Component 50: 112
+Component 51: 113
+Component 52: 114
+Component 53: 115
+Component 54: 116
+Component 55: 117
+Component 56: 118
+Component 57: 119
+Component 58: 120
+Component 59: 121
+Component 60: 122
+Component 61: 123
+Component 62: 124
+Component 63: 125
+Component 64: 126
+Component 65: 127
+Component 66: 128
+Component 67: 129
+Component 68: 130
+Component 69: 131
+Component 70: 132
+Component 71: 133
+Component 72: 134
+Component 73: 135
+Component 74: 136
+Component 75: 137
+Component 76: 138
+Component 77: 139
+Component 78: 140
+Component 79: 141
+Component 80: 142
+Component 81: 143
+Component 82: 144
+Component 83: 145
+Component 84: 146
+Component 85: 147
+Component 86: 148
+Component 87: 149
+Component 88: 150
+Component 89: 151
+Component 90: 152
+Component 91: 153
+Component 92: 154
+Component 93: 155
+Component 94: 156
+Component 95: 157
+Component 96: 158
+Component 97: 159
+Component 98: 160
+Component 99: 161
+Component 100: 162
+Component 101: 163
+Component 102: 164
+Component 103: 165
+Component 104: 166
+Component 105: 167
+Component 106: 168
+Component 107: 169
+Component 108: 170
+Component 109: 171
+Component 110: 172
+Component 111: 173
+Component 112: 174
+Component 113: 175
+Component 114: 176
+Component 115: 177
+Component 116: 178
+Component 117: 179
+Component 118: 180
+Component 119: 181
+Component 120: 182
+Component 121: 183
+Component 122: 184
+Component 123: 185
+Component 124: 186
+Component 125: 187
+Component 126: 188
+Component 127: 189
+Component 128: 190
+Component 129: 191
+Component 130: 192
+Component 131: 193
+Component 132: 194
+Component 133: 195
+Component 134: 196
+Component 135: 197
+Component 136: 198
+Component 137: 199
+Component 138: 200
+
+File: s-X-12-6.txt
+Connected components: 5
+------------------------
+Component 1: 1 2 3 4 5 6
+Component 2: 7
+Component 3: 8
+Component 4: 9
+Component 5: 10 11
+
