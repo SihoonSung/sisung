@@ -1,6 +1,1 @@
-#include <stdint.h>
-
-int main(){
-    int a = 0;
-    
-}
+//this is new test file
