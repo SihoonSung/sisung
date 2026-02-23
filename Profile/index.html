@@ -1,21 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sihoon Sung - Computer Science Student | Portfolio">
-    <meta name="keywords" content="Sihoon Sung, Computer Science, Portfolio, Software Engineer">
+    <meta name="description"
+        content="Sihoon Sung - CS Senior at Stony Brook University | Aspiring Product Manager | Security-Focused Developer">
+    <meta name="keywords"
+        content="Sihoon Sung, Computer Science, Stony Brook University, Product Manager, Software Engineer, Web Developer">
     <meta name="author" content="Sihoon Sung">
     <link rel="canonical" href="https://sihoonsung.com">
     <title>Sihoon Sung | Portfolio</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
+
 <body>
-    <nav class="navbar">
+    <div class="scroll-progress" id="scrollProgress"></div>
+
+    <nav class="navbar" id="navbar">
         <div class="container">
             <div class="nav-brand">Sihoon Sung</div>
             <ul class="nav-menu">
@@ -24,22 +32,34 @@
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <li><a href="Sihoon_Sung_Resume.pdf" target="_blank" class="nav-resume-btn"><i
+                            class="fas fa-file-pdf"></i> Resume</a></li>
             </ul>
         </div>
     </nav>
 
     <section class="hero">
+        <canvas id="particle-canvas"></canvas>
         <div class="container">
             <div class="hero-content">
-                <div class="hero-image">
-                    <img src="수정.jpg" alt="Sihoon Sung" class="profile-image">
+                <div class="hero-text">
+                    <p class="hero-greeting">Hello, I'm</p>
+                    <h1 class="hero-title">Sihoon<br>Sung</h1>
+                    <p class="hero-subtitle" id="typed-subtitle"></p>
+                    <p class="hero-description">Building impactful products at the intersection of technology and user
+                        experience</p>
+                    <div class="hero-buttons">
+                        <a href="#contact" class="btn btn-primary">Get in Touch</a>
+                        <a href="#projects" class="btn btn-secondary">View Projects</a>
+                        <a href="Sihoon_Sung_Resume.pdf" target="_blank" class="btn btn-resume"><i
+                                class="fas fa-download"></i> Resume</a>
+                    </div>
                 </div>
-                <h1 class="hero-title">Sihoon Sung</h1>
-                <p class="hero-subtitle">Computer Science Student</p>
-                <p class="hero-description">Passionate about algorithms, data structures, and software engineering</p>
-                <div class="hero-buttons">
-                    <a href="#contact" class="btn btn-primary">Get in Touch</a>
-                    <a href="#projects" class="btn btn-secondary">View Projects</a>
+                <div class="hero-image">
+                    <div class="hero-image-wrapper">
+                        <img src="수정.jpg" alt="Sihoon Sung" class="profile-image">
+                        <div class="hero-image-glow"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -49,21 +69,25 @@
         <div class="container">
             <h2 class="section-title">About</h2>
             <div class="about-content">
-                <p class="about-text">
-                    I am a dedicated computer science student with a strong passion for problem-solving and software development. 
-                    My academic journey focuses on mastering algorithms, data structures, and modern software engineering practices. 
-                    I enjoy tackling complex challenges and building efficient, scalable solutions.
+                <p class="about-text reveal">
+                    I am a Computer Science senior at Stony Brook University with hands-on experience in web
+                    development,
+                    team leadership, and security-focused software engineering. As the CEO of CO;Ders Us, I lead
+                    project-based
+                    learning initiatives and build cross-border developer communities. I am passionate about bridging
+                    technology
+                    with product strategy to create impactful solutions.
                 </p>
                 <div class="about-details">
-                    <div class="detail-item">
+                    <div class="detail-item reveal">
                         <div class="detail-icon"><i class="fas fa-graduation-cap"></i></div>
                         <h3>Education</h3>
-                        <p>Computer Science Major</p>
+                        <p>B.S. in Computer Science, Stony Brook University (Expected May 2026)</p>
                     </div>
-                    <div class="detail-item">
-                        <div class="detail-icon"><i class="fas fa-lightbulb"></i></div>
-                        <h3>Interests</h3>
-                        <p>Algorithms, Data Structures, Web Development</p>
+                    <div class="detail-item reveal">
+                        <div class="detail-icon"><i class="fas fa-map-marker-alt"></i></div>
+                        <h3>Location</h3>
+                        <p>Stony Brook, New York</p>
                     </div>
                 </div>
             </div>
@@ -73,76 +97,103 @@
     <section id="resume" class="section section-alt">
         <div class="container">
             <h2 class="section-title">Resume</h2>
+
+            <div class="resume-download-bar reveal">
+                <a href="Sihoon_Sung_Resume.pdf" target="_blank" class="btn-download-resume">
+                    <i class="fas fa-file-pdf"></i> View Full Resume (PDF)
+                </a>
+            </div>
+
             <div class="resume-container">
                 <div class="resume-section">
-                    <div class="resume-header">
+                    <div class="resume-header reveal">
                         <div class="resume-icon"><i class="fas fa-graduation-cap"></i></div>
                         <h3>Education</h3>
                     </div>
                     <div class="timeline">
-                        <div class="timeline-item">
+                        <div class="timeline-item reveal">
                             <div class="timeline-marker"></div>
                             <div class="timeline-content">
-                                <div class="timeline-date">2023 - Present</div>
-                                <h4>University</h4>
+                                <div class="timeline-date">2020 - 2026 (Expected)</div>
+                                <h4>Stony Brook University</h4>
                                 <p class="timeline-subtitle">Bachelor of Science in Computer Science</p>
-                                <p class="timeline-description">Studying core computer science principles including algorithms, data structures, software engineering, and system design.</p>
-                            </div>
-                        </div>
-                        <div class="timeline-item">
-                            <div class="timeline-marker"></div>
-                            <div class="timeline-content">
-                                <div class="timeline-date">2019 - 2022</div>
-                                <h4>High School</h4>
-                                <p class="timeline-subtitle">Science Track</p>
-                                <p class="timeline-description">Focused on mathematics and science, building a strong foundation for computer science studies.</p>
+                                <p class="timeline-description">Studying core computer science principles including
+                                    algorithms, data structures, software engineering, system design, and machine
+                                    learning. Expected graduation: May 2026.</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="resume-section">
-                    <div class="resume-header">
+                    <div class="resume-header reveal">
                         <div class="resume-icon"><i class="fas fa-briefcase"></i></div>
-                        <h3>Experience & Projects</h3>
+                        <h3>Experience</h3>
                     </div>
                     <div class="timeline">
-                        <div class="timeline-item">
+                        <div class="timeline-item reveal">
                             <div class="timeline-marker"></div>
                             <div class="timeline-content">
-                                <div class="timeline-date">2024 - Present</div>
-                                <h4>Algorithm Problem Solving</h4>
-                                <p class="timeline-subtitle">Personal Project</p>
-                                <p class="timeline-description">Continuously solving algorithmic challenges to enhance problem-solving skills and coding proficiency across various platforms.</p>
+                                <div class="timeline-date">Aug 2024 - Present</div>
+                                <h4>CEO / President</h4>
+                                <p class="timeline-subtitle">CO;Ders Us</p>
+                                <p class="timeline-description">Reorganized leadership and operational workflow.
+                                    Launched project-based learning tracks (Web/App, AI, CS foundations). Created
+                                    collaboration environments with weekly workshops and mentorship. Developing a
+                                    US-Korea network for joint hackathons.</p>
                             </div>
                         </div>
-                        <div class="timeline-item">
+                        <div class="timeline-item reveal">
                             <div class="timeline-marker"></div>
                             <div class="timeline-content">
-                                <div class="timeline-date">2024</div>
-                                <h4>Connected Components Project</h4>
-                                <p class="timeline-subtitle">CSE373 Course Project</p>
-                                <p class="timeline-description">Developed a graph algorithm-based program for analyzing connected components, implementing efficient traversal and analysis techniques.</p>
+                                <div class="timeline-date">Aug 2024 - Oct 2024</div>
+                                <h4>Web Developer Intern</h4>
+                                <p class="timeline-subtitle">Haeun E&C (Freelance)</p>
+                                <p class="timeline-description">Developed and maintained company websites using modern
+                                    web technologies. Improved front-end UI and implemented responsive designs for
+                                    optimal user experience across devices.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item reveal">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <div class="timeline-date">Mar 2021 - Jul 2024</div>
+                                <h4>Executive Board Member</h4>
+                                <p class="timeline-subtitle">CO;Ders Us</p>
+                                <p class="timeline-description">Managed project teams and organized weekly coding
+                                    sessions and workshops to foster a collaborative learning environment for members.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="timeline-item reveal">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <div class="timeline-date">Oct 2022 - Jul 2024</div>
+                                <h4>Signal Corps / Communication Specialist</h4>
+                                <p class="timeline-subtitle">Republic of Korea Air Force</p>
+                                <p class="timeline-description">Responsible for system maintenance, network monitoring,
+                                    and secure communication operations including SATCOM (Satellite Communication).</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="resume-section">
-                    <div class="resume-header">
+                    <div class="resume-header reveal">
                         <div class="resume-icon"><i class="fas fa-trophy"></i></div>
-                        <h3>Achievements & Certifications</h3>
+                        <h3>Achievements & Activities</h3>
                     </div>
                     <div class="achievements-grid">
-                        <div class="achievement-card">
-                            <div class="achievement-icon"><i class="fas fa-certificate"></i></div>
-                            <h4>Certifications</h4>
-                            <p>To be updated</p>
+                        <div class="achievement-card reveal">
+                            <div class="achievement-icon"><i class="fas fa-users"></i></div>
+                            <h4>CO;Ders Us CEO</h4>
+                            <p>Leading a developer community with project-based learning and US-Korea hackathon
+                                networking</p>
                         </div>
-                        <div class="achievement-card">
-                            <div class="achievement-icon"><i class="fas fa-award"></i></div>
-                            <h4>Awards</h4>
-                            <p>To be updated</p>
+                        <div class="achievement-card reveal">
+                            <div class="achievement-icon"><i class="fas fa-shield-alt"></i></div>
+                            <h4>ROKAF Service</h4>
+                            <p>Honorable service in Signal Corps with expertise in secure communications and SATCOM</p>
                         </div>
                     </div>
                 </div>
@@ -154,25 +205,35 @@
         <div class="container">
             <h2 class="section-title">Technical Skills</h2>
             <div class="skills-grid">
-                <div class="skill-card">
+                <div class="skill-card reveal">
                     <div class="skill-icon"><i class="fab fa-python"></i></div>
                     <h3>Python</h3>
-                    <p>Algorithm implementation and data processing</p>
+                    <p>Data processing, algorithm implementation, and machine learning with PyTorch</p>
                 </div>
-                <div class="skill-card">
-                    <div class="skill-icon"><i class="fab fa-java"></i></div>
-                    <h3>Java</h3>
-                    <p>Object-oriented programming and application development</p>
+                <div class="skill-card reveal">
+                    <div class="skill-icon"><i class="fab fa-react"></i></div>
+                    <h3>React</h3>
+                    <p>Building interactive, component-based web applications with modern UI patterns</p>
                 </div>
-                <div class="skill-card">
-                    <div class="skill-icon"><i class="fas fa-code"></i></div>
-                    <h3>C</h3>
-                    <p>System programming and performance optimization</p>
+                <div class="skill-card reveal">
+                    <div class="skill-icon"><i class="fab fa-js-square"></i></div>
+                    <h3>JavaScript</h3>
+                    <p>Full-stack development with Node.js backend and dynamic front-end interfaces</p>
                 </div>
-                <div class="skill-card">
-                    <div class="skill-icon"><i class="fas fa-globe"></i></div>
-                    <h3>Web Development</h3>
-                    <p>HTML, CSS, JavaScript, and modern web technologies</p>
+                <div class="skill-card reveal">
+                    <div class="skill-icon"><i class="fab fa-html5"></i></div>
+                    <h3>HTML / CSS</h3>
+                    <p>Responsive web design, modern layouts, and accessible front-end development</p>
+                </div>
+                <div class="skill-card reveal">
+                    <div class="skill-icon"><i class="fas fa-database"></i></div>
+                    <h3>MySQL</h3>
+                    <p>Database design, query optimization, and data management</p>
+                </div>
+                <div class="skill-card reveal">
+                    <div class="skill-icon"><i class="fab fa-git-alt"></i></div>
+                    <h3>Git / GitHub</h3>
+                    <p>Version control, collaborative development, and CI/CD workflows</p>
                 </div>
             </div>
         </div>
@@ -182,42 +243,49 @@
         <div class="container">
             <h2 class="section-title">Projects</h2>
             <div class="projects-grid">
-                <div class="project-card">
+                <div class="project-card reveal">
                     <div class="project-image">
-                        <div class="image-placeholder"><i class="fas fa-chart-line"></i></div>
+                        <div class="image-placeholder"><i class="fas fa-heartbeat"></i></div>
                     </div>
                     <div class="project-content">
-                        <h3>Algorithm Problem Solving</h3>
-                        <p>A comprehensive collection of algorithmic solutions and optimizations across various problem domains.</p>
-                        <div class="project-tags">
-                            <span class="tag">Python</span>
-                            <span class="tag">Algorithms</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="project-card">
-                    <div class="project-image">
-                        <div class="image-placeholder"><i class="fas fa-project-diagram"></i></div>
-                    </div>
-                    <div class="project-content">
-                        <h3>Connected Components</h3>
-                        <p>Graph algorithm implementation for analyzing and processing connected components in complex networks.</p>
-                        <div class="project-tags">
-                            <span class="tag">C</span>
-                            <span class="tag">Graph Theory</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="project-card">
-                    <div class="project-image">
-                        <div class="image-placeholder"><i class="fas fa-laptop-code"></i></div>
-                    </div>
-                    <div class="project-content">
-                        <h3>Web Applications</h3>
-                        <p>Interactive web applications built with modern frameworks and best practices.</p>
+                        <h3>Project Bb</h3>
+                        <p>AI-Powered Personal Wellness & Habit Tracking App. A web application that monitors daily
+                            routines (sleep, caffeine, exercise, mood) and provides AI-generated feedback and insights
+                            based on user patterns.</p>
                         <div class="project-tags">
                             <span class="tag">React</span>
-                            <span class="tag">JavaScript</span>
+                            <span class="tag">AI</span>
+                            <span class="tag">Node.js</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card reveal">
+                    <div class="project-image">
+                        <div class="image-placeholder"><i class="fas fa-baseball-ball"></i></div>
+                    </div>
+                    <div class="project-content">
+                        <h3>Dugout</h3>
+                        <p>Baseball Community Web Platform built as part of CSE 316. Implemented player/team stat pages,
+                            user accounts, and interactive discussion features for baseball fans.</p>
+                        <div class="project-tags">
+                            <span class="tag">React</span>
+                            <span class="tag">Node.js</span>
+                            <span class="tag">MySQL</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card reveal">
+                    <div class="project-image">
+                        <div class="image-placeholder"><i class="fas fa-film"></i></div>
+                    </div>
+                    <div class="project-content">
+                        <h3>Movie Genre Classification</h3>
+                        <p>Classified movie genres from posters using Vision Transformers & Neuromorphic Models.
+                            Compared CNN, ViT, and Spike-Driven Transformer (SDT) on a 40K+ poster dataset.</p>
+                        <div class="project-tags">
+                            <span class="tag">Python</span>
+                            <span class="tag">PyTorch</span>
+                            <span class="tag">Deep Learning</span>
                         </div>
                     </div>
                 </div>
@@ -229,17 +297,18 @@
         <div class="container">
             <h2 class="section-title">Contact</h2>
             <div class="contact-content">
-                <p class="contact-text">I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+                <p class="contact-text reveal">I'm always open to discussing new projects, creative ideas, or
+                    opportunities. Feel free to reach out!</p>
                 <div class="contact-links">
-                    <a href="mailto:your.email@example.com" class="contact-link">
+                    <a href="mailto:sihoon.sung@stonybrook.edu" class="contact-link reveal">
                         <span class="contact-icon"><i class="fas fa-envelope"></i></span>
                         <span>Email</span>
                     </a>
-                    <a href="https://github.com" target="_blank" class="contact-link">
+                    <a href="https://github.com/sihoonsung" target="_blank" class="contact-link reveal">
                         <span class="contact-icon"><i class="fab fa-github"></i></span>
                         <span>GitHub</span>
                     </a>
-                    <a href="https://linkedin.com" target="_blank" class="contact-link">
+                    <a href="https://linkedin.com/in/sihoonsung" target="_blank" class="contact-link reveal">
                         <span class="contact-icon"><i class="fab fa-linkedin"></i></span>
                         <span>LinkedIn</span>
                     </a>
@@ -256,4 +325,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>
